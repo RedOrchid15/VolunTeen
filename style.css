@@ -225,3 +225,12 @@ ul.gwc-topnav.gwc-indextopnav {
   font-size: 20px;
   padding: 5px;
 }
+
+.sign-up-login-box {
+  border: 5px solid;
+  height: auto;
+  width: 100%;
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 15px;
+}
