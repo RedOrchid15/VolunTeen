@@ -209,6 +209,9 @@ ul.gwc-topnav.gwc-indextopnav {
   padding: 15px;
 }
 
+.gwc-infotitle {
+  text-align: center;
+}
 .sign-up-box {
   padding: 30px;
 }
