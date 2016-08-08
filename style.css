@@ -228,9 +228,8 @@ ul.gwc-topnav.gwc-indextopnav {
 
 .sign-up-login-box {
   border: 5px solid;
-  height: auto;
-  width: 50%;
-  display: inline-block;
-  margin-bottom: 15px;
-  padding: 20px;
+  float: left;
+  width: 150px;
+  height: 75px;
+  margin: 10px;
 }
