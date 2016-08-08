@@ -233,10 +233,14 @@ ul.gwc-topnav.gwc-indextopnav {
 }
 
 .sign-up {
-  width: 40%;
-  float: left;
+  .rechts{
+float: right;
+width: 50%;
 }
+
 .login {
-  width: 40%;
-  float: right;
+float: right;
+width:auto;
+margin-right:0;
 }
+
