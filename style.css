@@ -208,3 +208,17 @@ ul.gwc-topnav.gwc-indextopnav {
 .gwc-mainprofile .gwc-profileinfo .gwc-profilesum {
   padding: 15px;
 }
+
+.sign-up-box {
+  padding: 30px;
+}
+
+.sign-up-title {
+  font-size: 50px;
+  padding: 5px;
+}
+
+.sign-up-info {
+  font-size: 20px;
+  padding: 5px;
+}
