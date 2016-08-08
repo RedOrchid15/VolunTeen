@@ -231,3 +231,12 @@ ul.gwc-topnav.gwc-indextopnav {
   display: inline-block;
   margin: 50px;
 }
+
+.sign-up {
+  width: 40%;
+  float: left;
+}
+.login {
+  width: 40%;
+  float: right;
+}
