@@ -152,18 +152,13 @@ ul.gwc-topnav li.gwc-icon {display: none;}
 }
 
 .gwc-carousel {
-    width: 90%;
-    margin: 5% auto auto auto;
+    margin: auto;
 }
 
 ul.gwc-topnav.gwc-indextopnav {
    margin: 0 0 0 0px;
 }
 
-
-#gwc-carousel-example-generic {
-    width: 90%;
-}
 
 .gwc-mainprofile {
   font-family: garamond;
@@ -212,7 +207,6 @@ ul.gwc-topnav.gwc-indextopnav {
 .gwc-infotitle {
   text-align: center;
 }
-
 
 .sign-up-title {
   font-size: 70px;
