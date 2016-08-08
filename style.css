@@ -126,8 +126,8 @@ ul.gwc-topnav li.gwc-icon {display: none;}
 }
 
 .gwc-footerleft {
-  background-color: #FF383F;
-  color: #EFEFEF;
+  background-color: #57BC90;
+  color: #0A1612;
 }
 
 .gwc-footer-techo {
@@ -141,7 +141,7 @@ ul.gwc-topnav li.gwc-icon {display: none;}
   font-size: 20px;
   padding-left: 20px;
   font-family: 'Poiret One', cursive;
-  color: #EFEFEF;
+  color: #0A1612;
 }
 
 .gwc-footer-details2 {
@@ -184,8 +184,8 @@ ul.gwc-topnav.gwc-indextopnav {
   top: 210px;
   height: 320px;
   width: 100%;
-  color: #EFEFEF;
-  background-color: #A9A9A9;
+  color: #0A1612;
+  background-color: #1A2930;
   font-family: 'Poiret One', cursive;
   -ms-transition: -ms-transform 1s;
   -webkit-transition: -webkit-transform 1s;
