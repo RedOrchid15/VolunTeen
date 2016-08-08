@@ -229,7 +229,7 @@ ul.gwc-topnav.gwc-indextopnav {
 .sign-up-login-box {
   border: 5px solid;
   float: left;
-  width: 150px;
-  height: 75px;
+  width: 40%;
+  height: 100%;
   margin: 10px;
 }
