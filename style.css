@@ -212,17 +212,15 @@ ul.gwc-topnav.gwc-indextopnav {
 .gwc-infotitle {
   text-align: center;
 }
-.sign-up-box {
-  padding: 30px;
-}
+
 
 .sign-up-title {
-  font-size: 50px;
+  font-size: 70px;
   padding: 5px;
 }
 
 .sign-up-info {
-  font-size: 20px;
+  font-size: 30px;
   padding: 5px;
 }
 
@@ -233,7 +231,6 @@ ul.gwc-topnav.gwc-indextopnav {
   height: 400px;
   text-align: center;
   margin: 2em;
-  margin: 50px;
 }
 
 
