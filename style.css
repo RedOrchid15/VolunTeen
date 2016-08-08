@@ -1,22 +1,22 @@
 .gwc-abouttitle {
   text-align: center;
   font-size: 60px;
-  color: #FF383F;
+  color: #0A1612;
   font-family: 'Poiret One', cursive;
 }
 
 .gwc-aboutgeneral {
   font-size: 20px;
   margin: 30px 30px 40px 30px;
-  color: black;
+  color: 0A1612;
   font-family: 'Oxygen', sans-serif;
 }
 
 .gwc-aboutus {
   margin: 20px 0px 20px 20px;
   font-family: garamond;
-  border: 5px solid #A9A9A9;
-  background: #EFEFEF;
+  border: 5px solid #57BC90;
+  background: #C5C1C0;
   font-family: 'Oxygen', sans-serif;
   display: inline-block;
   width: 97%;
@@ -27,7 +27,7 @@ ul.gwc-topnav {
     margin: 0 0 20px 0;
     padding: 15px 15px 15px 30px;
     overflow: hidden;
-    background-color: #1A2930;
+    background-color: #0A1612;
     float: none;
     text-align: center;
 }
@@ -61,7 +61,7 @@ ul.gwc-topnav li {
 /* Style the links inside the list items */
 ul.gwc-topnav li a {
     display: inline-block;
-    color: #f2f2f2;
+    color: #1A2930;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -126,8 +126,8 @@ ul.gwc-topnav li.gwc-icon {display: none;}
 }
 
 .gwc-footerleft {
-  background-color: #57BC90;
-  color: #0A1612;
+  background-color: #1A2930;
+  color: #C5C1C0;
 }
 
 .gwc-footer-techo {
@@ -170,7 +170,7 @@ ul.gwc-topnav.gwc-indextopnav {
   position: relative;
   height: 300px;
   overflow: hidden;
-  border: 5px solid #FF383F;
+  border: 5px solid #57BC90;
   margin: 20px;
 }
 
@@ -203,7 +203,7 @@ ul.gwc-topnav.gwc-indextopnav {
 }
 .gwc-mainprofile .gwc-profileinfo .gwc-infotitle .gwc-infosubtitle {
   font-size: 60%;
-  color: #EFEFEF;
+  color: #C5C1C0;
 }
 .gwc-mainprofile .gwc-profileinfo .gwc-profilesum {
   padding: 15px;
@@ -225,7 +225,7 @@ ul.gwc-topnav.gwc-indextopnav {
 }
 
 .sign-up-login-box {
-  border: 5px solid;
+  border: 5px solid 57BC90;
   display: inline-block;
   width: 400px;
   height: 400px;
