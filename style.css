@@ -40,6 +40,7 @@ ul.gwc-topnav li {
 }
 .gwc-name {
   float: left;
+  font-size: 50px;
 }
 /* Style the links inside the list items */
 ul.gwc-topnav li a {
@@ -106,7 +107,7 @@ ul.gwc-topnav.gwc-indextopnav {
 }
 
 .gwc-footer-techo {
-  font-size: 50px;
+  font-size: 70px;
   padding: 20px;
   padding-bottom: 10px;
   font-family: 'Stalemate', cursive;
