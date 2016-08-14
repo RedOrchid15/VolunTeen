@@ -1,30 +1,8 @@
+/*ALL PAGES*/
+
 body {
-  background-color: #1A2930;
+  background: #1A2930;
   color: #C5C1C0;
-}
-
-.gwc-abouttitle {
-  text-align: center;
-  font-size: 60px;
-  color: #0A1612;
-  font-family: 'Poiret One', cursive;
-}
-
-.gwc-aboutgeneral {
-  font-size: 20px;
-  margin: 30px 30px 40px 30px;
-  color: #0A1612;
-  font-family: 'Oxygen', sans-serif;
-}
-
-.gwc-aboutus {
-  margin: 20px 0px 20px 20px;
-  font-family: garamond;
-  border: 5px solid #57BC90;
-  background: #C5C1C0;
-  font-family: 'Oxygen', sans-serif;
-  display: inline-block;
-  width: 97%;
 }
 
 ul.gwc-topnav {
@@ -32,7 +10,7 @@ ul.gwc-topnav {
     margin: 0 0 20px 0;
     padding: 20px 20px 20px 40px;
     overflow: hidden;
-    background-color: #0A1612;
+    background-color: #1A2930;
     float: none;
     text-align: center;
 }
@@ -41,8 +19,8 @@ ul.gwc-topnav {
 }
 
 .gwc-name {
-   color: #C5C1C0;
-   font-family: 'Poiret One', curive;
+   color: #57BC90;
+   font-family: 'Stalemate', cursive;
    margin: 0 0;
    padding: 0 0;
 }
@@ -117,6 +95,63 @@ ul.gwc-topnav li.gwc-icon {display: none;}
   }
 }
 
+ul.gwc-topnav.gwc-indextopnav {
+   margin: 0 0 0 0px;
+}
+
+
+.gwc-footerleft {
+  background-color: #1A2930;
+  color: #C5C1C0;
+}
+
+.gwc-footer-techo {
+  font-size: 25px;
+  padding: 20px;
+  padding-bottom: 10px;
+  font-family: 'Stalemate', cursive;
+}
+
+.gwc-footer-details {
+  font-size: 20px;
+  padding-left: 20px;
+  font-family: 'Oswald', sans-serif;
+  color: #0A1612;
+}
+
+.gwc-footer-details2 {
+  font-size: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  font-family: 'Oswald', sans-serif;
+}
+
+
+
+/*INDEX*/
+
+.gwc-abouttitle {
+  text-align: center;
+  font-size: 60px;
+  color: #0A1612;
+  font-family: 'Oswald', sans-serif;
+}
+
+.gwc-aboutgeneral {
+  font-size: 20px;
+  margin: 30px 30px 40px 30px;
+  color: #0A1612;
+font-family: 'Oswald', sans-serif;
+}
+
+.gwc-aboutus {
+  margin: 20px 0px 20px 20px;
+  border: 5px solid #57BC90;
+  background: #C5C1C0;
+  font-family: 'Oswald', sans-serif;
+  display: inline-block;
+  width: 97%;
+}
 
 .carousel-caption {
    top: 10%;
@@ -130,48 +165,69 @@ ul.gwc-topnav li.gwc-icon {display: none;}
     }
 }
 
-.gwc-footerleft {
-  background-color: #1A2930;
-  color: #C5C1C0;
-}
-
-.gwc-footer-techo {
-  font-size: 25px;
-  padding: 20px;
-  padding-bottom: 10px;
-  font-family: 'Poiret One', cursive;
-}
-
-.gwc-footer-details {
-  font-size: 20px;
-  padding-left: 20px;
-  font-family: 'Poiret One', cursive;
-  color: #0A1612;
-}
-
-.gwc-footer-details2 {
-  font-size: 20px;
-  padding-left: 20px;
-  padding-bottom: 20px;
-  font-family: 'Poiret One', cursive;
-}
-
 .gwc-carousel {
     width: 90%;
     margin: 5% auto auto auto;
 }
 
-ul.gwc-topnav.gwc-indextopnav {
-   margin: 0 0 0 0px;
-}
-
-
 #gwc-carousel-example-generic {
     width: 90%;
 }
 
+
+
+/*HELP OTHERS*/
+
+.sign-up-title {
+  font-size: 70px;
+  padding: 5px;
+}
+
+.sign-up-info {
+  font-size: 30px;
+  padding: 5px;
+}
+
+.sign-up-login-box {
+  border: 5px solid #57BC90;
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  margin: 2em;
+}
+
+
+
+/*NEED HELP*/
+
+.sign-up-title {
+  font-size: 70px;
+  padding: 5px;
+}
+
+.sign-up-info {
+  font-size: 30px;
+  padding: 5px;
+}
+
+.sign-up-login-box {
+  border: 5px solid #57BC90;
+  display: inline-block;
+  width: 400px;
+  height: 400px;
+  text-align: center;
+  margin: 2em;
+}
+
+
+
+/*VOLUNTEER SIGNUP*/
+
+/*OPPORTUNITIES*/
+
 .gwc-mainprofile {
-  font-family: garamond;
+  font-family: 'Oswald', sans-serif;
   position: relative;
   height: 300px;
   overflow: hidden;
@@ -191,7 +247,7 @@ ul.gwc-topnav.gwc-indextopnav {
   width: 100%;
   color: #C5C1C0;
   background-color: #1A2930;
-  font-family: 'Poiret One', cursive;
+  font-family: 'Oswald', sans-serif;
   -ms-transition: -ms-transform 1s;
   -webkit-transition: -webkit-transform 1s;
   transition: transform 1s;
@@ -216,26 +272,6 @@ ul.gwc-topnav.gwc-indextopnav {
 
 .gwc-infotitle {
   text-align: center;
-}
-
-
-.sign-up-title {
-  font-size: 70px;
-  padding: 5px;
-}
-
-.sign-up-info {
-  font-size: 30px;
-  padding: 5px;
-}
-
-.sign-up-login-box {
-  border: 5px solid #57BC90;
-  display: inline-block;
-  width: 400px;
-  height: 400px;
-  text-align: center;
-  margin: 2em;
 }
 
 
